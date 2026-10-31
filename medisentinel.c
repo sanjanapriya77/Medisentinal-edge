@@ -1,7 +1,6 @@
 
 /* ============================================================================
- * COURSE   : EC 2V87 - EMBEDDED SOFTWARE DEVELOPMENT
- * PROJECT  : QNX MediSentinel - Predictive Clinical-Criticality Orchestration
+ * PROJECT  : QNX MediSentinel - edge
  * TEAM     : QubeX (G. Sanjanapriya, K. P. Shreeja, V. N. Tharsine)
  * TARGET   : Raspberry Pi 4 (AArch64) | QNX SDP 8.0 (Neutrino RTOS)
  * PROBLEM  : Sl.No. 19 - ICU Multi-Patient Alarm Prioritization System
